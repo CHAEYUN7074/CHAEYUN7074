@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center style="width:100%;">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyodii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun7074&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojinee&&show_icons=true&theme=buefy)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyun7074&&show_icons=true&theme=buefy)
 -->
 </div>
