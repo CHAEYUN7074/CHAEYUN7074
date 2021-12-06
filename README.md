@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @JIYUN
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 📫 How to reach me ...
-
 <!---
 CHAEYUN7074/CHAEYUN7074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>💘Tech Stack💘</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
